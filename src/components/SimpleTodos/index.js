@@ -1,3 +1,4 @@
+// Write your code here
 import {Component} from 'react'
 
 import TodoItem from '../TodoItem'
@@ -61,6 +62,7 @@ class SimpleTodos extends Component {
     return (
       <div className="con-1">
         <div className="con-2">
+          <h1 className="h"> Simple Todos </h1>
           <ul className="lis">
             {todoslist.map(eachuser => (
               <TodoItem
