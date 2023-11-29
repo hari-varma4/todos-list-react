@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.ll {
+  margin: 5px;
+}
+.h {
+  color: #ff0b37;
+  font-size: 20px;
+}
+.roww {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+.p {
+  color: #000000;
+  font-size: 18px;
+}
+.bt {
+  background-color: transparent;
+  border: solid #ff0b37;
+  padding: 3px;
+  color: #ff0b37;
+  height: 30px;
+  width: 80px;
+  font-size: 10px;
+}
