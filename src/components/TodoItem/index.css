@@ -1,19 +1,17 @@
 /* Write your CSS here */
+/* Write your CSS here */
 .ll {
-  margin: 5px;
-}
-.h {
-  color: #ff0b37;
-  font-size: 20px;
+  margin: 10px;
 }
 .roww {
+  margin: 5px;
   display: flex;
-  flex-direction: row;
-  margin: 10px;
 }
 .p {
   color: #000000;
-  font-size: 18px;
+  font-size: 20px;
+  align-items: flex-start;
+  margin-top: 10px;
 }
 .bt {
   background-color: transparent;
@@ -23,4 +21,7 @@
   height: 30px;
   width: 80px;
   font-size: 10px;
+  align-items: flex-end;
+  margin-top: 0px;
+  margin-left: 5px;
 }
